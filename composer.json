@@ -1,6 +1,9 @@
 {
     "name": "renronghuan/composer-test",
     "type": "library",
-    "description": "test for composer"
+    "description": "test for composer",
+    "require": {
+             "monolog/monolog": "1.9.0"
+    },
    
 }
