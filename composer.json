@@ -4,6 +4,6 @@
     "description": "test for composer",
     "require": {
              "monolog/monolog": "1.9.0"
-    },
+    }
    
 }
